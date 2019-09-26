@@ -1,2 +1,3 @@
 # hello-world
-A new Start
+Hi there!
+Its my new start with coding.
